@@ -1,0 +1,14 @@
+{
+  "name": "aurevia-stationery-template",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static stationery catalogue and bulk enquiry template",
+  "scripts": {
+    "start": "node scripts/serve.cjs",
+    "build": "node scripts/build.cjs",
+    "test": "node tests/qa.cjs"
+  },
+  "devDependencies": {
+    "playwright": "^1.58.0"
+  }
+}

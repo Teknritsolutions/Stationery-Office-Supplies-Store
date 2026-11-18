@@ -1,0 +1,248 @@
+[
+  {
+    "url": "https://teknritsolutions.github.io/Pet-Shop-Accessories-Store/index.html",
+    "desktop": {
+      "title": "Thoughtful essentials for a happier pet | Morrow & Paw",
+      "headings": [
+        "Your shopping cart",
+        "For the ones who\n              \n              make life\n              lovelier.",
+        "Their world. Thoughtfully stocked.",
+        "Loved for a reason.",
+        "Small details.\n                \n                A happier everyday.",
+        "A few new favorites.",
+        "Brands with a little more heart.",
+        "A fresh coat.\n                \n                A gentle touch.",
+        "For a life well loved.",
+        "Happy pets. Happy people."
+      ],
+      "nav": [
+        "morrow & paw\n                For their everyday joy",
+        "Home Page 1",
+        "Home Page 2",
+        "About",
+        "Shop",
+        "Featured Brands",
+        "Grooming",
+        "Pet Care Tips",
+        "Contact",
+        "Shop now"
+      ],
+      "footer": true,
+      "internal": "https://teknritsolutions.github.io/Pet-Shop-Accessories-Store/pages/home-2.html"
+    },
+    "mobileOverflow": false,
+    "internal": {
+      "url": "https://teknritsolutions.github.io/Pet-Shop-Accessories-Store/pages/home-2.html",
+      "heading": "\n              Little rituals.\n              \n              Big love.\n            "
+    }
+  },
+  {
+    "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/index.html",
+    "desktop": {
+      "title": "Local Farm and CSA | Pure Fields - Organic Produce",
+      "headings": [
+        "Weekly fresh produce from\n                    \n                    local farms to your table",
+        "A local CSA built for real weekly routines.",
+        "How the Pure Fields membership works each week.",
+        "Flexible CSA plans and seasonal add-ons.",
+        "A simple subscription flow from plan selection to weekly pickup.",
+        "Short reads for members who want better meals and better timing.",
+        "What members say after the first few deliveries."
+      ],
+      "nav": [
+        "eco\n                    \n                        Pure Fields",
+        "Home expand_more",
+        "Home Page 1",
+        "Home Page 2",
+        "About Us",
+        "Products",
+        "Blog",
+        "Contact Us",
+        "Dashboard expand_more",
+        "Admin Dashboard",
+        "User Dashboard",
+        "shopping_cart\n                        \n                            Cart"
+      ],
+      "footer": true,
+      "internal": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/home-page-2.html"
+    },
+    "mobileOverflow": false,
+    "internal": {
+      "url": "https://teknritsolutions-2.github.io/Local-Farm-or-Community-Supported-Agriculture-CSA-/pages/public/home-page-2.html",
+      "heading": "\n                        Seasonal produce, flexible plans,and local farm delivery\n                    "
+    }
+  },
+  {
+    "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/index.html",
+    "desktop": {
+      "title": "IMPERIA Events | Luxury Event Planning & Styling Studio",
+      "headings": [
+        "Crafting Unforgettable Luxury Events",
+        "Luxury Planning, Seamlessly Curated",
+        "Celebrations Crafted with Vision",
+        "Your Celebration, Thoughtfully Crafted",
+        "Designing Experiences, Not Just Events",
+        "Luxury Collections, Tailored to Your Vision",
+        "Every Celebration, A Lasting Memory",
+        "Let’s Create Something Extraordinary"
+      ],
+      "nav": [
+        "Home page-1",
+        "Home page-2",
+        "About",
+        "Services",
+        "Pricing",
+        "Contact",
+        "Client Dashboard",
+        "Admin Dashboard",
+        "Login",
+        "Book Now"
+      ],
+      "footer": true,
+      "internal": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/homepage2.html"
+    },
+    "mobileOverflow": false,
+    "internal": {
+      "url": "https://teknrit-maker.github.io/High-End-Event-Planning/pages/homepage2.html",
+      "heading": "Designing Elegant Experiences"
+    }
+  },
+  {
+    "url": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/index.html",
+    "desktop": {
+      "title": "Local Indie Bookstore",
+      "headings": [
+        "Explore Stories From Independent Bookshops",
+        "Featured Books",
+        "Staff Picks",
+        "Browse Book Categories",
+        "What Our Readers Say",
+        "Bookstore Moments",
+        "Author Events",
+        "Subscribe to Our Newsletter"
+      ],
+      "nav": [
+        "Home",
+        "Home Page 1",
+        "Home Page 2",
+        "Book Services",
+        "Book Blog",
+        "About Bookshop",
+        "Contact",
+        "Dashboard",
+        "Admin Dashboard",
+        "User Dashboard",
+        "Login"
+      ],
+      "footer": true,
+      "internal": "https://teknrit-maker.github.io/Local-Indie-Bookstore/pages/Home%20page%202.html"
+    },
+    "error": "page.screenshot: Timeout 30000ms exceeded."
+  },
+  {
+    "url": "https://teknrit-maker.github.io/FoodTruck/Pages/menu.html",
+    "desktop": {
+      "title": "Food Truck",
+      "headings": [
+        "Explore Our Delicious Menu",
+        "Browse Our Menu",
+        "BBQ Chicken Signature Pizza",
+        "Craving Something Delicious?",
+        "Food Name"
+      ],
+      "nav": [
+        "Home",
+        "Home Page 1",
+        "Home Page 2",
+        "Menu",
+        "About",
+        "Blog",
+        "Truck Schedule",
+        "Catering",
+        "Book Our Truck"
+      ],
+      "footer": true,
+      "internal": "https://teknrit-maker.github.io/FoodTruck/Pages/index.html"
+    },
+    "mobileOverflow": false,
+    "internal": {
+      "url": "https://teknrit-maker.github.io/FoodTruck/Pages/index.html",
+      "heading": "\n              Delicious Food \n              From Our Mobile Kitchen\n            "
+    }
+  },
+  {
+    "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/",
+    "desktop": {
+      "title": "Boutique Yarn - Premium Craft Supplies",
+      "headings": [
+        "Design-led yarns for modern makers.",
+        "Atelier Picks",
+        "Signature Pattern Library",
+        "Crafted For Modern Makers",
+        "Loved By Yarn Makers",
+        "Pricing Built for Modern Studios",
+        "Latest From The Atelier",
+        "Start your next masterpiece with our premium yarn library."
+      ],
+      "nav": [
+        "Boutique Yarn\n                  Craft Supply Studio",
+        "Home Page 1General",
+        "Home Page 2Niche",
+        "About Us",
+        "Products",
+        "Blog",
+        "Contact",
+        "Customer DashboardLibrary",
+        "Admin DashboardManage",
+        "",
+        "Login"
+      ],
+      "footer": true,
+      "internal": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/index.html"
+    },
+    "mobileOverflow": false,
+    "internal": {
+      "url": "https://ravivarmaadepu123.github.io/boutique-yarn-and-craft-supply/pages/index.html",
+      "heading": "Design-led yarns for modern makers."
+    }
+  },
+  {
+    "url": "https://teknritsolutions.github.io/Online-Coaching-Platform-for-Competitive-Exams/",
+    "desktop": {
+      "title": "Prepare with purpose. Achieve with confidence. | Aurevia Academy",
+      "headings": [
+        "Big ambitions.\n                \n                Clear direction.\n                \n                Your next chapter.",
+        "One goal. The right pathway.",
+        "Clarity at every step.",
+        "Your ambition, well supported.",
+        "A little better, every day.",
+        "Every milestone begins\n                \n                with showing up.",
+        "More than a score.\n                \n                A way forward.",
+        "Good teachers make a difference.",
+        "A more confident kind of preparation.",
+        "A stronger tomorrow starts with today."
+      ],
+      "nav": [
+        "Home Page 1",
+        "Home Page 2",
+        "About Us",
+        "All Courses",
+        "Banking Exams",
+        "SSC Exams",
+        "Railways Exams",
+        "Engineering Exams",
+        "Faculty",
+        "Results",
+        "Fees",
+        "Mock Tests"
+      ],
+      "footer": true,
+      "internal": "https://teknritsolutions.github.io/Online-Coaching-Platform-for-Competitive-Exams/pages/index.html"
+    },
+    "mobileOverflow": false,
+    "internal": {
+      "url": "https://teknritsolutions.github.io/Online-Coaching-Platform-for-Competitive-Exams/pages/index.html",
+      "heading": "\n                Big ambitions.\n                \n                Clear direction.\n                \n                Your next chapter.\n              "
+    }
+  }
+]

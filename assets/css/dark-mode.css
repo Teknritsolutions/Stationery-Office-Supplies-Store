@@ -1,0 +1,37 @@
+:root[data-theme="dark"] {
+    color-scheme: dark;
+    --color-background: #10151d;
+    --color-surface: #19212c;
+    --color-surface-alt: #222c39;
+    --color-heading: #f4f6f8;
+    --color-text: #bbc5d0;
+    --color-border: #354150;
+}
+[data-theme="dark"] .deal-card.warm,
+[data-theme="dark"] .testimonials .quote-main {
+    background: #282720;
+}
+[data-theme="dark"] .brand img {
+    filter: brightness(1.7);
+}
+[data-theme="dark"] nav .active {
+    color: #e1c199;
+}
+[data-theme="dark"] .category-filter.selected {
+    border-color: #92a5bb;
+}
+[data-theme="dark"] .icon-box {
+    color: #cbb18b;
+}
+[data-theme="dark"] h1 em {
+    color: #c49a62;
+}
+[data-theme="dark"] .product-media {
+    background: #e9e5df;
+}
+[data-theme="dark"] .secondary {
+    border-color: #718093;
+}
+[data-theme="dark"] .intro-mark {
+    opacity: 0.7;
+}

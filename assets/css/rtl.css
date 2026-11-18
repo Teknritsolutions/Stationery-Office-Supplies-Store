@@ -1,0 +1,22 @@
+[dir="rtl"] .button svg,
+[dir="rtl"] .text-link svg,
+[dir="rtl"] .round-link svg {
+    transform: scaleX(-1);
+}
+[dir="rtl"] .line-art-pens {
+    transform: rotate(-20deg);
+}
+[dir="rtl"] .gallery-thumbnails {
+    direction: rtl;
+}
+[dir="rtl"] input[type="email"],
+[dir="rtl"] input[type="tel"] {
+    direction: ltr;
+    text-align: right;
+}
+[dir="rtl"] .brand {
+    direction: ltr;
+}
+[dir="rtl"] .breadcrumb {
+    direction: rtl;
+}

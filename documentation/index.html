@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width,initial-scale=1" />
+        <title>Velmont — Template Documentation</title>
+        <link rel="icon" href="../assets/images/branding/favicon.svg" />
+        <link rel="stylesheet" href="../assets/css/style.css" />
+        <style>
+            body {
+                background: #f7f8fa;
+            }
+            .docs {
+                max-width: 900px;
+                margin: auto;
+                padding: 60px 24px;
+            }
+            .docs section {
+                background: #fff;
+                border: 1px solid #e3e7ec;
+                padding: 32px;
+                margin-top: 22px;
+                border-radius: 6px;
+            }
+            .docs h1 {
+                margin: 20px 0;
+            }
+            .docs h2 {
+                font-size: 25px;
+                margin-bottom: 18px;
+            }
+            .docs h3 {
+                font-size: 18px;
+                margin: 24px 0 12px;
+            }
+            .docs p,
+            .docs li {
+                font-size: 14px;
+            }
+            .docs code {
+                background: #f0f2f5;
+                padding: 3px 5px;
+                color: #263b53;
+                overflow-wrap: anywhere;
+            }
+            .docs pre {
+                white-space: pre-wrap;
+                padding: 20px;
+                background: #f0f2f5;
+            }
+            .docs table {
+                margin-top: 20px;
+            }
+            .docs a {
+                color: #263b53;
+                text-decoration: underline;
+            }
+            .docs td,
+            .docs th {
+                padding: 12px;
+                font-size: 13px;
+            }
+        </style>
+    </head>
+    <body>
+        <main class="docs">
+            <a href="../index.html">← Back to Velmont</a>
+            <span class="eyebrow" style="margin-top: 40px">TEMPLATE GUIDE / VERSION 1.0</span>
+            <h1>Good work starts here.</h1>
+            <p>
+                Your guide to installing, editing and launching the Velmont stationery & office
+                supplies template.
+            </p>
+            <section>
+                <h2>1. Run locally</h2>
+                <p>
+                    Open
+                    <code>index.html</code>
+                    directly, or use the included Node.js static server. Node.js 18 or later is
+                    recommended.
+                </p>
+                <pre>node scripts/serve.cjs</pre>
+                <p>
+                    Visit
+                    <a href="http://127.0.0.1:4173">http://127.0.0.1:4173</a>
+                    . Stop the terminal with Ctrl+C. No installation, build or backend is needed to
+                    display any page. Deploy the root folder contents to any static host or GitHub
+                    Pages.
+                </p>
+            </section>
+            <section>
+                <h2>2. Pages & structure</h2>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Page</th>
+                            <th>Main sections</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>index — Classic home.html</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>home-2 — Editorial home.html</td>
+                            <td>10</td>
+                        </tr>
+                        <tr>
+                            <td>products — Catalogue.html</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>product-details — Selected product.html</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>new-arrivals — Latest collection.html</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>bulk-orders — Business supply.html</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>about — Brand story.html</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>contact — Contact & enquiries.html</td>
+                            <td>6</td>
+                        </tr>
+                        <tr>
+                            <td>404 — Custom error page.html</td>
+                            <td>1</td>
+                        </tr>
+                        <tr>
+                            <td>coming-soon — Interest registration.html</td>
+                            <td>1</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <p>
+                    All pages contain their header, footer and main content in HTML. Shared
+                    components are authored in
+                    <code>scripts/build.cjs</code>
+                    and emitted into the complete HTML files. Edit the builder for consistent global
+                    changes, then run
+                    <code>node scripts/build.cjs</code>
+                    . Direct HTML changes are supported, but rebuilding overwrites them. No build
+                    step is required for hosting.
+                </p>
+            </section>
+            <section>
+                <h2>3. Design customization</h2>
+                <p>
+                    Set brand colors, text colors, surface colors, container width and section
+                    spacing in
+                    <code>assets/css/style.css</code>
+                    . Responsive rules live in
+                    <code>responsive.css</code>
+                    ; theme overrides in
+                    <code>dark-mode.css</code>
+                    ; direction-specific adjustments in
+                    <code>rtl.css</code>
+                    .
+                </p>
+                <p>
+                    The original stacked-paper logo and matching favicon are under
+                    <code>assets/images/branding/</code>
+                    . Inter is hosted locally with its OFL license. Bootstrap 5 CSS and Lucide icons
+                    are hosted locally under
+                    <code>assets/vendor/</code>
+                    .
+                </p>
+                <h3>Dark mode & RTL</h3>
+                <p>
+                    The initial theme follows the system preference. The header toggles persist
+                    explicit choices in localStorage, using
+                    <code>aurevia-theme</code>
+                    and
+                    <code>aurevia-dir</code>
+                    . RTL changes layout direction; English is not translated. Storage failures are
+                    handled gracefully. Use actual translated copy before launching a localized
+                    site.
+                </p>
+            </section>
+            <section>
+                <h2>4. Catalogue & images</h2>
+                <p>
+                    Product records are authored in
+                    <code>scripts/build.cjs</code>
+                    and emitted to
+                    <code>assets/js/products.js</code>
+                    . The main catalogue shows the first twelve products; additional records support
+                    the curated sections. Each record has a stable ID, name, category, indicative
+                    USD price, image and description. Details are selected with
+                    <code>product-details.html?id=1</code>
+                    . Use the same ID in product links.
+                </p>
+                <p>
+                    The default journal includes three dedicated gallery photographs. Other product
+                    selections use their own product image and show generic specifications requiring
+                    confirmation. Product photographs are illustrations of catalogue merchandise, not
+                    guaranteed supplier specifications.
+                </p>
+                <p>
+                    All 74 content photos are original AI-generated images, created with the
+                    built-in image generation tool and optimized locally to WebP. See
+                    <a href="image-inventory.json">the image inventory</a>
+                    for subjects, page, section, hashes, use and generation prompts. Every file has
+                    a distinct SHA-256 hash. The same product may appear in its selected detail
+                    view; thumbnail previews intentionally reference the same image within their
+                    gallery. No content photograph is shared between separate static page sections.
+                </p>
+                <p>
+                    Replace a photograph by saving a new optimized WebP at its current path. Keep
+                    aspect ratios appropriate to the layout and update alt text. Preserve the
+                    width/height attributes for loading stability; responsive CSS handles display
+                    dimensions.
+                </p>
+            </section>
+            <section>
+                <h2>5. Forms & map integration</h2>
+                <p>
+                    Contact, bulk and interest forms are currently unavailable for online submission. They validate
+                    required fields and email syntax, then show that nothing was delivered or
+                    stored. No email is sent and there is no backend.
+                </p>
+                <p>
+                    To activate production submission, set
+                    <code>window.AUREVIA_CONFIG.formEndpoint</code>
+                    in
+                    <code>assets/js/forms.js</code>
+                    to your secure endpoint. The script sends JSON with named fields and a form
+                    type. Configure server-side validation, spam protection, retention and
+                    appropriate privacy information. Update the submission status only after live
+                    integration is verified.
+                </p>
+                <p>
+                    Set
+                    <code>mapEmbedUrl</code>
+                    to your Google Maps HTTPS embed URL. Until configured, the contact page displays
+                    an intentional location placeholder. Replace the demo email, hours and business
+                    address with actual details. No real business location is implied.
+                </p>
+            </section>
+            <section>
+                <h2>6. QA & release notes</h2>
+                <p>
+                    Browser QA uses installed Chrome via Playwright.
+                    <a href="../tests/qa-report.json">The QA report</a>
+                    records the actual results for every page, sixteen viewport widths, two themes
+                    and two directions. Screenshots are under
+                    <code>tests/screenshots/</code>
+                    . Automated checks cover section counts, overflow, text clipping, image loading,
+                    local links and key interactions.
+                </p>
+                <p>
+                    Widths: 320, 360, 375, 390, 420, 480, 576, 640, 768, 820, 992, 1024, 1280, 1366,
+                    1440 and 1920 pixels. See
+                    <a href="reference-review.md">reference review notes</a>
+                    . All company narrative, prices and testimonials are illustrative and clearly
+                    marked where appropriate. No fake countdown, credentials, authentication or
+                    dashboard is included.
+                </p>
+                <p>
+                    Before launch: replace demo business copy, connect and test forms, configure
+                    your store map, and replace
+                    <code>example.com</code>
+                    in
+                    <code>sitemap.xml</code>
+                    and
+                    <code>robots.txt</code>
+                    . Hosting-specific custom 404 handling must be configured on your chosen host.
+                    This delivery is a local static template; no hosting account or live service is
+                    configured.
+                </p>
+                <h3>Included libraries</h3>
+                <p>
+                    Bootstrap 5 (MIT), Lucide (ISC), Inter (SIL Open Font License). Original layout,
+                    branding and generated content images are included with the template. No
+                    reference-site source or assets are used in the template.
+                </p>
+            </section>
+        </main>
+    </body>
+</html>

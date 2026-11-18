@@ -1,0 +1,1177 @@
+[
+  {
+    "filename": "assets/images/home-1/shop-interior.webp",
+    "subject": "Sunlit independent stationery shop with colorful notebooks and writing tools",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. A premium commercial stationery photograph for a website hero. On a warm pale limestone desk: an open ivory notebook with blank pages, closed navy linen journal, brass fountain pen, wooden pencil, neatly stacked white paper and a small navy pen cup. Beautiful soft sunlight from the upper left, subtle real shadows, restrained navy and tan palette, editorial still life, realistic materials. Landscape 3:2 composition, objects fully framed, no letters, no logos, no watermark. Save image for this website project.",
+    "bytes": 125902,
+    "sha256": "8148811b53191aa36de01a8d11cd355c8afafcb5898b94b9a23ed35ac301a650",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-1.webp",
+    "subject": "single navy linen A5 journal closed on warm ivory",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 1 for premium stationery catalogue. Subject: single navy linen A5 journal closed on warm ivory. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 66466,
+    "sha256": "ca298278f80c75289106a3e686fe67b547c3ae69b7b605944a1c1071257154fb",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-2.webp",
+    "subject": "three brass and navy ballpoint pens parallel",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 2 for premium stationery catalogue. Subject: three brass and navy ballpoint pens parallel. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 48880,
+    "sha256": "fd8941361d6795459717cad6a7205679c1890603b4ad506e3d2ecccae8336b24",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-3.webp",
+    "subject": "ream of white A4 paper with kraft paper sleeve",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 3 for premium stationery catalogue. Subject: ream of white A4 paper with kraft paper sleeve. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 49106,
+    "sha256": "6fd96a862b11fbf24f49d6d2ff3095afd4244510843877f5677be238f9e5c54f",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-4.webp",
+    "subject": "six upright tan document folders",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 4 for premium stationery catalogue. Subject: six upright tan document folders. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 34976,
+    "sha256": "9e57ef01ecc9cb7ee8afd8e2d7ea517cf344fb452d45eb3d77dd3e129b62188a",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-5.webp",
+    "subject": "ceramic navy desk tray and brass paper clips",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 5 for premium stationery catalogue. Subject: ceramic navy desk tray and brass paper clips. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 61048,
+    "sha256": "78b9a3276c52b7224402bec76c715a7b7d6cb154dea9184a413d499556c7b305",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-6.webp",
+    "subject": "colored pencils and watercolor pans neatly arranged",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 6 for premium stationery catalogue. Subject: colored pencils and watercolor pans neatly arranged. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 80024,
+    "sha256": "97984a6741da1812403546014156e9f3532fb71a48f7b4bdf6b8b50001dfbbca",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-7.webp",
+    "subject": "open weekly planner with blank grid pages",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 7 for premium stationery catalogue. Subject: open weekly planner with blank grid pages. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 39468,
+    "sha256": "345db7c3522d2dc999063e5fdfa46f4d44d626b8e90e48b21ac5f493b38875e6",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-8.webp",
+    "subject": "black metal desk stapler on pale gray",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 8 for premium stationery catalogue. Subject: black metal desk stapler on pale gray. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 31954,
+    "sha256": "d3d479612ed77accc819658f2c452179cd8487791a1ea3b3b092a8b27d63742f",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-9.webp",
+    "subject": "small stack of sticky note pads muted colors",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 9 for premium stationery catalogue. Subject: small stack of sticky note pads muted colors. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 38410,
+    "sha256": "d34f84bccb5f01d00a9505bd079b594adff0fb41f0c36be92b810f375f72925c",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-10.webp",
+    "subject": "brass scissors with kraft paper",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 10 for premium stationery catalogue. Subject: brass scissors with kraft paper. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 75986,
+    "sha256": "8ad1fd8132bceffcd17d11b283a0de2064d15dc8625bdc8b25622b39474ce35b",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-11.webp",
+    "subject": "navy zip pen pouch open with pens",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 11 for premium stationery catalogue. Subject: navy zip pen pouch open with pens. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 70526,
+    "sha256": "088dbbd8baae56e6f9f9f2a7cc755afeb341d8e4c69540497ad0943658c19156",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-12.webp",
+    "subject": "wooden pencil set in kraft box",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 12 for premium stationery catalogue. Subject: wooden pencil set in kraft box. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 87616,
+    "sha256": "079564de76acd43e5d8541eecb52c22ff2cd70dae9be2fd00c00730b65a21f50",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-13.webp",
+    "subject": "minimal white home office desk by window",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 13 for premium stationery catalogue. Subject: minimal white home office desk by window. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 61786,
+    "sha256": "47027d4d156303211a845b8a7e27e1833371a70940d732aa05bd29ba9e5035d8",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 4,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-14.webp",
+    "subject": "corporate stationery boxes and organized office supplies",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 14 for premium stationery catalogue. Subject: corporate stationery boxes and organized office supplies. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 72824,
+    "sha256": "091c0d8dbabafce1c63fd43a23758616745296d5d05c04d3240cbba152596c42",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 7,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-15.webp",
+    "subject": "fountain pen nib macro on cream paper",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 15 for premium stationery catalogue. Subject: fountain pen nib macro on cream paper. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 52974,
+    "sha256": "f301c66e15c0ecd9a7933fd2ecb3e58d436a860c4b312a63987504972aad2c3f",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 4,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/creative-studio-editorial.webp",
+    "subject": "Illustrator's studio table with botanical sketches, watercolors and drawing tools",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 16 for premium stationery catalogue. Subject: overhead creative writing desk with journal. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 59088,
+    "sha256": "519d09a150d7061b398b69f349149f5e2c75bbc89aaf7885aec812c9bde8d842",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-17.webp",
+    "subject": "modern office shelving with file organizers",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 17 for premium stationery catalogue. Subject: modern office shelving with file organizers. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 52344,
+    "sha256": "7991fd1dbd5b1a7d606037d4a1821f86a389943af6f39ee9a68274a81920c836",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 2,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-18.webp",
+    "subject": "student desk with exercise books and pencils",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 18 for premium stationery catalogue. Subject: student desk with exercise books and pencils. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 70676,
+    "sha256": "e2bd9c695128d1225acde0d9213da0c3c489fbf9c631d6006c379ee3d8f4c0f5",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 2,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-19.webp",
+    "subject": "organized design studio desk with sketchbook",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 19 for premium stationery catalogue. Subject: organized design studio desk with sketchbook. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 60244,
+    "sha256": "7f580e9dfd75abeea24793d7e7c407857f9b2be6ee057715e17a18e3c81c9025",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 2,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-20.webp",
+    "subject": "collection of planners on a stepped plinth",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 20 for premium stationery catalogue. Subject: collection of planners on a stepped plinth. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 51284,
+    "sha256": "b67cc1f2acb467f2ebd079a9d91d2e596052c1c62cf5815cf8116696c8eae96b",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 2,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-21.webp",
+    "subject": "three paper organizers in wood and navy",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 21 for premium stationery catalogue. Subject: three paper organizers in wood and navy. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 45574,
+    "sha256": "c13fc18a37ced87b8af9ad65809efacc3afc89778b56219315d517029b10d9a1",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 6,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-22.webp",
+    "subject": "corporate meeting table with notebooks at each seat",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 22 for premium stationery catalogue. Subject: corporate meeting table with notebooks at each seat. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 86620,
+    "sha256": "432d3b867f3b116b6a74a120d3e84cf923ddb4d87ac3c6186d815965a062348e",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 8,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-23.webp",
+    "subject": "gift wrapped stationery set with cotton ribbon",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 23 for premium stationery catalogue. Subject: gift wrapped stationery set with cotton ribbon. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 74578,
+    "sha256": "c4667e266ae64acc18c4a52a6b646014e5f89a42e190f713c9b7cafd74e61bb0",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 10,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/journal-in-use.webp",
+    "subject": "Writing in an open linen journal with cream ruled pages and a ribbon bookmark",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 24 for premium stationery catalogue. Subject: notebook binding and cream paper edges macro. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 74606,
+    "sha256": "7ce553201aba79e3ea36c5e1527ed17302b6b7f338d3894967cd5ed6cdf8514d",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/about/image-25.webp",
+    "subject": "small independent stationery workshop with shelves",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 25 for premium stationery catalogue. Subject: small independent stationery workshop with shelves. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 78930,
+    "sha256": "51790efe9ce27839515abf7916dcceeaf555f8b765a1f6c94f6fdae8c2a963b6",
+    "uses": [
+      {
+        "page": "pages/about.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-26.webp",
+    "subject": "desk with handwritten-style blank correspondence cards and envelopes",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 26 for premium stationery catalogue. Subject: desk with handwritten-style blank correspondence cards and envelopes. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 79686,
+    "sha256": "d83e639ec9f3468dce1d6cd6aeeed658e812ccbc398116edce172b842705fa9e",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-27.webp",
+    "subject": "recycled paper notebook and wooden pencil",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 27 for premium stationery catalogue. Subject: recycled paper notebook and wooden pencil. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 86400,
+    "sha256": "45ed0f9129187379c07856726c645737ab0a6a2d514b22f1362e08cbd26aa72c",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-28.webp",
+    "subject": "black mechanical pencil isolated on ivory",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 28 for premium stationery catalogue. Subject: black mechanical pencil isolated on ivory. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 43298,
+    "sha256": "7356e8556a813101500aaa47b92d93d2f250ea2c0ea2186b2b59235b5590a4b0",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 8,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-29.webp",
+    "subject": "tan leather desk mat with simple metal ruler",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 29 for premium stationery catalogue. Subject: tan leather desk mat with simple metal ruler. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 41666,
+    "sha256": "11e2146285382416251854d35159022cd1e201c033df441f56b8d13a1497f9b2",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 8,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-30.webp",
+    "subject": "blue index cards in oak box",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 30 for premium stationery catalogue. Subject: blue index cards in oak box. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 51198,
+    "sha256": "6ce38a11e9acb7120734428f12cb6480b26df735f69300c231ebd719054f31f2",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 8,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/image-31.webp",
+    "subject": "set of kraft document wallets",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 31 for premium stationery catalogue. Subject: set of kraft document wallets. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 55650,
+    "sha256": "2f826f943b1e4f9748ea33081bcb12b51037602115bc44189a135c8dff61eedd",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 8,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-32.webp",
+    "subject": "white drawing sketchbook with blank page and pencils",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 32 for premium stationery catalogue. Subject: white drawing sketchbook with blank page and pencils. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 61624,
+    "sha256": "4c69cae6f0ba2183962674564edf1f92e3e325a59fd9798193b103b460825b08",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-33.webp",
+    "subject": "packaged navy gel pen set",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 33 for premium stationery catalogue. Subject: packaged navy gel pen set. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 75732,
+    "sha256": "59431da5c35df67d85fdd61b4e3c24e625e83dd91fdf04416db62ee6dab5aba6",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-34.webp",
+    "subject": "linen journal in sand color",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 34 for premium stationery catalogue. Subject: linen journal in sand color. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 82850,
+    "sha256": "523278f8b204488cfa6ba00ca9ea0d73b5e9ba3ab13e7b6aa54e33a4a15563bc",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-35.webp",
+    "subject": "matte navy desktop pencil sharpener",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 35 for premium stationery catalogue. Subject: matte navy desktop pencil sharpener. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 34120,
+    "sha256": "980259b5df7602721169c06f32628fb5efea7817a3baee5c9fa9b36fcb5726bb",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-36.webp",
+    "subject": "brass binder clips in ceramic bowl",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 36 for premium stationery catalogue. Subject: brass binder clips in ceramic bowl. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 69684,
+    "sha256": "a2219431ab519355531c98b1e099825d2f9bcc37721621f4c0a51b9c6b1f3119",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 6,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-2/image-37.webp",
+    "subject": "navy and cream folders in archival box",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 37 for premium stationery catalogue. Subject: navy and cream folders in archival box. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 60776,
+    "sha256": "65fbff0f540ac33efec968c3217be586f972024141499c7a0e2b68e3372db911",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 6,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-38.webp",
+    "subject": "open empty notebook top down with ribbon bookmark",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 38 for premium stationery catalogue. Subject: open empty notebook top down with ribbon bookmark. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 51396,
+    "sha256": "80fb4cf3dd7b19d8a61b5aef71ca5548cad4816bed97c92651f4e5a10109937b",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 1,
+        "usage": "Product gallery"
+      },
+      {
+        "page": "pages/product-details.html",
+        "section": 1,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-39.webp",
+    "subject": "closed notebook side view showing stitched spine",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 39 for premium stationery catalogue. Subject: closed notebook side view showing stitched spine. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 40242,
+    "sha256": "9433cebf82dcdc6b9f927801df4adca872823797a931cd449fdcd3064142bcdd",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 1,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-40.webp",
+    "subject": "notebook open at desk beside pen from low angle",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 40 for premium stationery catalogue. Subject: notebook open at desk beside pen from low angle. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 57306,
+    "sha256": "7436ebe97134917824f5f94bcd4e1d6cd81c69782fbe1554fc4b8cdaeb9a995e",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 1,
+        "usage": "Product gallery"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-41.webp",
+    "subject": "beautiful organized bulk supply cartons with paper and files",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 41 for premium stationery catalogue. Subject: beautiful organized bulk supply cartons with paper and files. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 49886,
+    "sha256": "f4cc0689f6dc7b562932390e223841295156d78f4ce385fa397c71532e579bdc",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-42.webp",
+    "subject": "writing kit on gray stone pedestal",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 42 for premium stationery catalogue. Subject: writing kit on gray stone pedestal. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 62136,
+    "sha256": "847435237828c8279b72a6ea31dc8914b7ef6812a4888e4c6582357972b81154",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/product-details/image-43.webp",
+    "subject": "blank kraft envelopes and brass letter opener",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 43 for premium stationery catalogue. Subject: blank kraft envelopes and brass letter opener. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 66540,
+    "sha256": "870d6c97b8661edc85688cfffd8b17582eb4ba52e6e24b984c4c0f4b85fb7c5d",
+    "uses": [
+      {
+        "page": "pages/product-details.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/404/paper-plane.webp",
+    "subject": "Folded paper airplane and a loose notebook page on a pale blue surface",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 44 for premium stationery catalogue. Subject: sculptural folded paper and pencil for an error page. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 22340,
+    "sha256": "ed674e2300a0638bb4696e4774b089c7fbe4c7e81e6e60c8871eacc1df693b8e",
+    "uses": [
+      {
+        "page": "pages/404.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/coming-soon/collection-preview.webp",
+    "subject": "Upcoming stationery collection wrapped in sage tissue with a peach notebook",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Asset 45 for premium stationery catalogue. Subject: stationery gift box partially opened for upcoming collection. One unique realistic commercial product photograph, full objects in frame, soft studio daylight and natural shadows, refined navy, tan, cream palette. Clean uncluttered composition, no text, no lettering, no watermarks. Square composition, suitable for a premium website.",
+    "bytes": 66172,
+    "sha256": "c4f8fe371c5e3fc9de2d7d72489a40cb151d9ac793ca63231e0f66e7504a109e",
+    "uses": [
+      {
+        "page": "pages/coming-soon.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-1.webp",
+    "subject": "navy hardcover linen journal alone on cream studio background",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: navy hardcover linen journal alone on cream studio background. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 70808,
+    "sha256": "2f1fcbc7bcdc900ff88e9672a7ca40b240c83261a4e77bb4d9ae8e47706a36d4",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-2.webp",
+    "subject": "brass and navy ballpoint pen trio in a slim case",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: brass and navy ballpoint pen trio in a slim case. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 96702,
+    "sha256": "85162fd58df14ab69ddd9b1da84e42ac8dfe18fef13e5cdd6b23c708ba870629",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-3.webp",
+    "subject": "sealed ream of unbranded A4 white printing paper",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: sealed ream of unbranded A4 white printing paper. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 52058,
+    "sha256": "db7e157fd95617e5471957350343eae1f53026451132250097d68c6b1369d123",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-4.webp",
+    "subject": "six tan manila document folders fanned out",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: six tan manila document folders fanned out. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 44556,
+    "sha256": "371d030396db4f734e8a031469b769c4c95095eee6859937b2cb419f259651c2",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-5.webp",
+    "subject": "navy ceramic desk tray with brass clips",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: navy ceramic desk tray with brass clips. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 70738,
+    "sha256": "6088e54d2e8df5e5999f486db420ba504294093f0001bbb6f9c9293b228aa1d6",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-6.webp",
+    "subject": "colored pencil set and watercolors in open wooden box",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: colored pencil set and watercolors in open wooden box. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 73344,
+    "sha256": "7dd6508b99df550e98f891fc2022e412c3059c0634f81420d26ec8034ead7f08",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-7.webp",
+    "subject": "blank undated weekly planner open on a white table",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: blank undated weekly planner open on a white table. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 55020,
+    "sha256": "a1e3da643230fd5b8874fad813dd3f2b843e7d2655ee164645375eb4e9f59b03",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-8.webp",
+    "subject": "matte charcoal desktop stapler side view",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: matte charcoal desktop stapler side view. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 47452,
+    "sha256": "cff19ce3528237aafaf768bd0299c082fae5c034cd1aa153ffb1a032068db4f3",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-9.webp",
+    "subject": "pastel muted sticky note pads stacked on white",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: pastel muted sticky note pads stacked on white. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 37638,
+    "sha256": "49a5aeb4de843154256235b64b9ad1cadd38fac1765c26c2217274681e0787e1",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-10.webp",
+    "subject": "brass scissors isolated on cream paper",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: brass scissors isolated on cream paper. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 98384,
+    "sha256": "ecc7f56bc7bf781acabe0cec69ac4cfb6c823e863b18ebed945899f7ca80dda4",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-11.webp",
+    "subject": "navy canvas zip pen pouch isolated",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: navy canvas zip pen pouch isolated. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 90150,
+    "sha256": "78dcf0728365b1686b4e533225600fe53bfbc008d3da57973be3bccb1b74bab9",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/item-12.webp",
+    "subject": "twelve cedar pencils with plain kraft package",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: twelve cedar pencils with plain kraft package. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 106582,
+    "sha256": "281db93b6e42397b332d99b64d4c38caec6fb16baac530150f03c8f0ccbf3e1a",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/new-13.webp",
+    "subject": "sand linen notebook on circular plinth",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: sand linen notebook on circular plinth. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 85410,
+    "sha256": "fb68fc00cf34ecfb7afa14b0f8aa0e08723a2c83de44b881e03e70f44ba1e9dc",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/new-14.webp",
+    "subject": "refined gold fountain pen and ink bottle",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: refined gold fountain pen and ink bottle. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 98654,
+    "sha256": "e1ddcfa17e40c02f9161603b0f7f460599ca0d9f989de911755faed97ec16fe7",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/new-15.webp",
+    "subject": "navy ceramic pen cup with ruler",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: navy ceramic pen cup with ruler. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 69610,
+    "sha256": "1fdea00489d9865e5b2a4b6fd06cfcd5554381f76a0760f04c1c91d21b918ad0",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/new-16.webp",
+    "subject": "brass and oak desk organizer",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: brass and oak desk organizer. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 58852,
+    "sha256": "9ee5878765b45427dd5398cbf367ffd18502f6421d19d836474b3bc938250d3c",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 2,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/bulk-orders/order-fulfillment.webp",
+    "subject": "Bulk stationery orders arranged at a dispatch table with boxes and paper supplies",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: corporate supplies ready for bulk dispatch. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 70888,
+    "sha256": "353d438173237ec4d1f39cb15bcbba95a136b75597052c738f0939b070a7fe6a",
+    "uses": [
+      {
+        "page": "pages/bulk-orders.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/contact/enquiry-counter.webp",
+    "subject": "Welcoming stationery shop enquiry counter with a telephone, notebook and service bell",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: contact desk with envelopes blank notes and pen. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 71198,
+    "sha256": "d667bd4b7a3f7f06b31291e9c659be635b722a11b741d2acbabe64e69195c542",
+    "uses": [
+      {
+        "page": "pages/contact.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/new-collection-unboxing.webp",
+    "subject": "New notebook, fountain pen and desk accessories being unboxed in tissue paper",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: new stationery collection arranged on shelves. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 66452,
+    "sha256": "c625b66914e753f9cd3b1391a1107f0c220fd01914e8adc36f1bac737f4564db",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/about/bookbinding-workshop.webp",
+    "subject": "Artisan hands stitching a notebook in a bookbinding workshop",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: product-mockup. Unique premium stationery commercial photograph: quiet stationery store workspace with linen journal. Soft natural studio lighting, navy tan ivory colors, elegant minimal setting, fully framed objects, realistic material textures and subtle shadows, square. No text, no watermark, no logos.",
+    "bytes": 110112,
+    "sha256": "45d1a184c69cd93c157ec2ba22a015f1d23d6dcf41b44f755bba03f1f4253a51",
+    "uses": [
+      {
+        "page": "pages/about.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/feature-1.webp",
+    "subject": "brass fountain pen on folded ivory paper close up",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. brass fountain pen on folded ivory paper close up. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 107990,
+    "sha256": "fc731957ded47b8f029167df2e5b04c112129f4cab72ebde4aaae2f8d6e900e6",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 3,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/feature-2.webp",
+    "subject": "navy ceramic pencil cup with three wooden pencils",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. navy ceramic pencil cup with three wooden pencils. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 77772,
+    "sha256": "9d568c2d213b59aafdaa56b87c90e5b9e7b6c190bb09bdf79685adf4ef3999e7",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 4,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/feature-3.webp",
+    "subject": "minimal desktop letter tray with sorted paper",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. minimal desktop letter tray with sorted paper. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 57654,
+    "sha256": "c67de5c9f4d1c9feb2e049b54fbb722870d656e273673f2e3e3fd690af2b75bf",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 4,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/feature-4.webp",
+    "subject": "brass paper clips in a shallow tan dish",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. brass paper clips in a shallow tan dish. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 116168,
+    "sha256": "78995be89b0463f1e1650cd6616fa4a351bc0e811c064cdf72d7128ed3809509",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 4,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/new-arrivals/feature-5.webp",
+    "subject": "premium muted stationery collection on large limestone platform",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. premium muted stationery collection on large limestone platform. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 97936,
+    "sha256": "6261c6ef4f3c46930ead360beb9121737b96c0c274666742994458877c36d26f",
+    "uses": [
+      {
+        "page": "pages/new-arrivals.html",
+        "section": 5,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/about/feature-6.webp",
+    "subject": "close up hand inspecting the linen texture and binding of a notebook",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. close up hand inspecting the linen texture and binding of a notebook. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 148646,
+    "sha256": "5b39722359816d242cece274dfbca98982b7c23a4acdda061fe8214d7cc0c49b",
+    "uses": [
+      {
+        "page": "pages/about.html",
+        "section": 4,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/products/collection-assortment.webp",
+    "subject": "Stationery assortment arranged by category with pens, paper, folders and desk tools",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. wide arrangement of stationery catalogue supplies on a cream surface. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 63518,
+    "sha256": "045511c1c2e9e608b4709c62b835cf2e1dd56c6c366e34bf9815a3ea17d291ad",
+    "uses": [
+      {
+        "page": "pages/products.html",
+        "section": 1,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/home-1/feature-8.webp",
+    "subject": "small still life of open notebook and pencil beside tan envelope",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Premium editorial stationery product photography. small still life of open notebook and pencil beside tan envelope. Natural soft shadows, beautiful navy tan cream palette, commercial photography, fully framed objects, square composition. No logos, text or watermark.",
+    "bytes": 71842,
+    "sha256": "ef38c813f5843ff72f642d7e3c32e2099be5789e20bfa4809e30a717268004be",
+    "uses": [
+      {
+        "page": "pages/index.html",
+        "section": 10,
+        "usage": "Content photograph"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/workspaces/home-office.webp",
+    "subject": "home office",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: website workspace tab photograph. Generate one new original premium editorial photograph. A refined home office by a window, oak writing desk, navy journal open to blank pages, brass pen, paper tray, desk lamp, chair and a small plant. Show a coherent real home workspace with stationery as the focal point. Wide landscape 4:3 composition suitable for a panel image, natural soft daylight, warm ivory and oak with navy details, realistic materials, calm professional styling. No people, no readable text, no logos or watermarks. Save the image for a website project. Asset name home-office.",
+    "bytes": 151564,
+    "sha256": "7612b0a328b690ad5e5c65f362840838f4907df32f3c5d7ca9062f85c981c01a",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 3,
+        "usage": "Workspace tab image"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/workspaces/corporate-office.webp",
+    "subject": "corporate office",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: website workspace tab photograph. Generate one new original premium editorial photograph. A modern corporate office shared worktable with coordinated navy notebooks, pens, document folders, paper stacks, two laptop computers and ergonomic chairs, glass partitions softly visible behind. Stationery ready for a team workday. Wide landscape 4:3 composition suitable for a panel image, natural soft daylight, warm ivory and oak with navy details, realistic materials, calm professional styling. No people, no readable text, no logos or watermarks. Save the image for a website project. Asset name corporate-office.",
+    "bytes": 140838,
+    "sha256": "a2bad80a9204ae05d9595073b350cc68e5f9ccbc7f0800b20834bc3d5e87f436",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 3,
+        "usage": "Workspace tab image"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/workspaces/student-desk.webp",
+    "subject": "student desk",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: website workspace tab photograph. Generate one new original premium editorial photograph. An inviting student study desk with open blank notebook, textbooks with unmarked covers, pencils in a cup, index cards, simple calculator and study lamp, muted navy backpack resting beside the chair. A believable focused study setting. Wide landscape 4:3 composition suitable for a panel image, natural soft daylight, warm ivory and oak with navy details, realistic materials, calm professional styling. No people, no readable text, no logos or watermarks. Save the image for a website project. Asset name student-desk.",
+    "bytes": 162900,
+    "sha256": "6e4f6277159e7aab8aca6e1b762f4c3caafe1d3de5f3236d3d6b568253bb4910",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 3,
+        "usage": "Workspace tab image"
+      }
+    ]
+  },
+  {
+    "filename": "assets/images/workspaces/creative-studio.webp",
+    "subject": "creative studio",
+    "source": "Original image generated with built-in image_gen tool",
+    "prompt": "Use case: photorealistic-natural. Asset type: website workspace tab photograph. Generate one new original premium editorial photograph. An artist and designer creative studio workbench with an open sketchbook showing subtle abstract pencil studies, loose swatches, scattered coloured pencils, watercolor palette, brushes in a ceramic cup, drawing tools and paper. Show a whole creative workspace, realistic and thoughtfully arranged. Wide landscape 4:3 composition suitable for a panel image, natural soft daylight, warm ivory and oak with navy details, realistic materials, calm professional styling. No people, no readable text, no logos or watermarks. Save the image for a website project. Asset name creative-studio.",
+    "bytes": 169754,
+    "sha256": "7645d849e222ca24dd4b1aba32db09fdc71914aa865d6e9a648232578fd5bb6e",
+    "uses": [
+      {
+        "page": "pages/home-2.html",
+        "section": 3,
+        "usage": "Workspace tab image"
+      }
+    ]
+  }
+]

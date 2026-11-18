@@ -1,0 +1,3 @@
+const fs=require('fs'),path=require('path');const {chromium}=require('D:/Hobby & Board Games Store/node_modules/playwright');
+(async()=>{const browser=await chromium.launch({headless:true,channel:"chrome"});const page=await browser.newPage({viewport:{width:1440,height:1000}});await page.goto('http://127.0.0.1:4173');await page.screenshot({path:'tests/home-first.png',fullPage:true});console.log(await page.evaluate(()=>({title:document.title,sections:document.querySelectorAll('main>section').length,width:document.documentElement.scrollWidth,viewport:innerWidth,images:[...document.images].filter(i=>!i.complete||!i.naturalWidth).map(i=>i.src)})));await browser.close()})();
+
